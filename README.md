@@ -37,3 +37,8 @@ MIT License - Feel free to use and modify!
 ## Author
 
 Haneef Puttur - www.haneefputtur.com
+
+## Images
+![Weather Station](images/pressure_map.png)
+![Weather Station](images/temp_map.png)
+
